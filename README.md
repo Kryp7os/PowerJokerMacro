@@ -35,3 +35,7 @@ Sub MyMacro()
 End Sub
 
 ```
+
+No Current Detections as of 4/3/24
+
+![Screenshot 2024-04-03 122807](https://github.com/Kryp7os/PowerJokerMacro/assets/98974230/a891a9d4-6f25-4e45-8c67-2fdf19636d24)
